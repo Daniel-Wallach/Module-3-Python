@@ -58,6 +58,7 @@ Your analysis should align with the following results:
 	Election Results
 	
 	-------------------------
+	
 	Total Votes: 369711
 	
 	-------------------------
@@ -75,3 +76,13 @@ Your analysis should align with the following results:
 	-------------------------
 
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
+
+---
+
+### References
+
+[What does the argument newline='' do in the open function?](https://stackoverflow.com/questions/61861172/what-does-the-argument-newline-do-in-the-open-function)
+
+[SyntaxError: unterminated string literal in Python](https://www.decodingweb.dev/solved-syntaxerror-unterminated-string-literal-in-python)
+
+
