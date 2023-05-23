@@ -95,6 +95,4 @@ In addition, your final script should both print the analysis to the terminal an
 
 [How to Convert List to String in Python?](https://www.simplilearn.com/tutorials/python-tutorial/list-to-string-in-python)
 
-[Combine f-string and raw string literal](https://stackoverflow.com/a/58302703/21718760)
-
 
