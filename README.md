@@ -87,4 +87,14 @@ In addition, your final script should both print the analysis to the terminal an
 
 [with statement in python](https://www.geeksforgeeks.org/with-statement-in-python)
 
+[Triple Quotes in Python](https://www.geeksforgeeks.org/triple-quotes-in-python)
+
+[Python 3's f-Strings: An Improved String Formatting Syntax (Guide)](https://realpython.com/python-f-strings)
+
+[Python File Write](https://www.w3schools.com/python/python_file_write.asp)
+
+[How to Convert List to String in Python?](https://www.simplilearn.com/tutorials/python-tutorial/list-to-string-in-python)
+
+[Combine f-string and raw string literal](https://stackoverflow.com/a/58302703/21718760)
+
 
