@@ -85,4 +85,6 @@ In addition, your final script should both print the analysis to the terminal an
 
 [SyntaxError: unterminated string literal in Python](https://www.decodingweb.dev/solved-syntaxerror-unterminated-string-literal-in-python)
 
+[with statement in python](https://www.geeksforgeeks.org/with-statement-in-python)
+
 
